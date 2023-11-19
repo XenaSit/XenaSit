@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xena</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xenasit&label=Profile%20views&color=0e75b6&style=flat" alt="xenasit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenasit" alt="xenasit" /></a> </p>
-
 - 🔭 I’m currently working on **react on Rails App**
 
 - 🌱 I’m currently learning **Python and MERN and Ruby**
-
-- 📄 Know about my experiences [linked in](linked in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenasit&show_icons=true&locale=en" alt="xenasit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xenasit&label=Profile%20views&color=0e75b6&style=flat" alt="xenasit" /> </p>
