@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **react on Rails App**
 
-- 🌱 I’m currently learning **Python and MERN and Ruby**
+- 🌱 I’m currently learning ** Ruby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
