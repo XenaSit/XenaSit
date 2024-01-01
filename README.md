@@ -20,6 +20,20 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xenasit" height="30" width="40" /></a> -->
 </p>
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://tic-tac-toe-five-virid.vercel.app/" target="blank">
+    <img align="center" src="" alt="sxena" height="30" width="40" /></a>
+  <a href="https://jelly-hunt.vercel.app/" target="blank">
+    <img align="center" src="" alt="sxena" height="30" width="40" /></a>
+  <a href="https://color-box.vercel.app/" target="blank">
+    <img align="center" src="" alt="xenasit" height="30" width="40" /></a>
+  <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
+    <img align="center" src="https://tic-tac-toe-five-virid.vercel.app/static/media/github.6b3e2f44307137716fe6.png" alt="xenasit" height="30" width="40" /></a>
+
+</p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
