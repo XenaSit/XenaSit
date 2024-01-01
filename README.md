@@ -34,7 +34,7 @@
  
 </p>
 
-<h3 align="center">Check out my GITHUB projects:</h3>
+<h3 align="center">Check out my TEAM GITHUB projects:</h3>
 
 <p align="center">
   <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
