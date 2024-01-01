@@ -20,7 +20,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xenasit" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="center">Check out my projects:</h3>
+<h3 align="center">Check out my DEPLOYED projects:</h3>
 
 <p align="center">
   <a href="https://tic-tac-toe-five-virid.vercel.app/" target="blank">
@@ -29,9 +29,13 @@
     <img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Y_yuiXPYtD8iPt-gd1Sa3AHaGX%26pid%3DApi&sp=1704134412T8df6d760317311c489f0ecbe857eb65eca7ffd1dc0d2fde8c7c6fbc780146303" alt="sxena" height="30" /></a>
   <a href="https://color-box.vercel.app/" target="blank">
     <img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.bIz84FM62d9HtF_R7ASmSAHaHa%26pid%3DApi&sp=1704134448Td6d94da641a4e29e3ed376fd18ab5a7f12b57bb194458389a7b45011026cdaf3" alt="xenasit" height="30" /></a>
-  <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
-    <img align="center" src="https://tic-tac-toe-five-virid.vercel.app/static/media/github.6b3e2f44307137716fe6.png" alt="xenasit" height="30"  /></a>
+</p>
 
+<h3 align="center">Check out my GITHUB projects:</h3>
+
+<p align="center">
+  <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMlvD1UkS7AbW_VxysBUQgB92HuAvU19kj5w&usqp=CAU" alt="xenasit" height="30"  /></a>
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit" /></p>
