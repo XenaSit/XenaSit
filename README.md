@@ -24,11 +24,11 @@
 
 <p align="center">
   <a href="https://tic-tac-toe-five-virid.vercel.app/" target="blank">
-    <img align="center" src="" alt="sxena" height="30" width="40" /></a>
+    <img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F110-1100210_tic-tac-toe-png.png&sp=1704134348Tdeeed60003af2985b40fcfb36714cd56997878062353b793e6277b1ad392fcba" alt="sxena" height="30" width="40" /></a>
   <a href="https://jelly-hunt.vercel.app/" target="blank">
-    <img align="center" src="" alt="sxena" height="30" width="40" /></a>
+    <img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Y_yuiXPYtD8iPt-gd1Sa3AHaGX%26pid%3DApi&sp=1704134412T8df6d760317311c489f0ecbe857eb65eca7ffd1dc0d2fde8c7c6fbc780146303" alt="sxena" height="30" width="40" /></a>
   <a href="https://color-box.vercel.app/" target="blank">
-    <img align="center" src="" alt="xenasit" height="30" width="40" /></a>
+    <img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.bIz84FM62d9HtF_R7ASmSAHaHa%26pid%3DApi&sp=1704134448Td6d94da641a4e29e3ed376fd18ab5a7f12b57bb194458389a7b45011026cdaf3" alt="xenasit" height="30" width="40" /></a>
   <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
     <img align="center" src="https://tic-tac-toe-five-virid.vercel.app/static/media/github.6b3e2f44307137716fe6.png" alt="xenasit" height="30" width="40" /></a>
 
