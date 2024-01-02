@@ -52,7 +52,7 @@
     <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="xenasit" height="30" /></a>
   
   <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMlvD1UkS7AbW_VxysBUQgB92HuAvU19kj5w&usqp=CAU" alt="xenasit" height="30"  /></a>
+    <img align="center" src="https://github.com/LearnProjects89/mix-and-match/blob/main/frontend%20district%2012/src/assets/gitlogo.png" alt="xenasit" height="30"  /></a>
   <a href="https://github.com/LearnProjects89/Book-Club/tree/main" target="blank">
       <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="xenasit" height="30" /></a>
   <a href="https://github.com/LearnProjects89/apartment-app" target="blank">
