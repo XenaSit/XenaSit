@@ -36,7 +36,7 @@
       <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="xenasit" height="30" /></a>
   
   <a href="https://pig-latin-psi.vercel.app/" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/butcherPig.jpeg" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/logo.png" alt="xenasit" height="30" /></a>
  
 </p>
 
@@ -58,7 +58,7 @@
   <a href="https://github.com/LearnProjects89/apartment-app" target="blank">
       <img align="center" src="https://github.com/LearnProjects89/apartment-app/blob/main/frontend-apt-app/src/assets/home.png" alt="xenasit" height="30" /></a>
   <a href="https://github.com/LearnProjects89/pig-latin" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/butcherPig.jpeg" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/logo.png" alt="xenasit" height="30" /></a>
   
 </p>
 
