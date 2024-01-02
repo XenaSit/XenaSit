@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://tic-tac-toe-five-virid.vercel.app/" target="blank">
-    <img align="center" src="public/tic-tac-toe.png" alt="sxena" height="30"  /></a>
+    <img align="center" src="https://github.com/LearnProjects89/tic-tac-toe/blob/main/public/tic-tac-toe.png" alt="sxena" height="30"  /></a>
   <a href="https://jelly-hunt.vercel.app/" target="blank">
     <img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Y_yuiXPYtD8iPt-gd1Sa3AHaGX%26pid%3DApi&sp=1704134412T8df6d760317311c489f0ecbe857eb65eca7ffd1dc0d2fde8c7c6fbc780146303" alt="sxena" height="30" /></a>
   <a href="https://color-box.vercel.app/" target="blank">
