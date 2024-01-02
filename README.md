@@ -33,9 +33,10 @@
     <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="xenasit" height="30" /></a>
   
   <a href=" https://bookclub-frontend.onrender.com/" target="blank">
-      <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GsMXC3h1_0PTqCBxAf1wmmb1kWR4pnjneA&usqp=CAU" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="xenasit" height="30" /></a>
+  
   <a href="https://pig-latin-psi.vercel.app/" target="blank">
-      <img align="center" src="https://cdn12.picryl.com/photo/2016/12/31/pig-animal-pork-animals-201aac-1024.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/butcherPig.jpeg" alt="xenasit" height="30" /></a>
  
 </p>
 
@@ -53,11 +54,11 @@
   <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMlvD1UkS7AbW_VxysBUQgB92HuAvU19kj5w&usqp=CAU" alt="xenasit" height="30"  /></a>
   <a href="https://github.com/LearnProjects89/Book-Club/tree/main" target="blank">
-      <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GsMXC3h1_0PTqCBxAf1wmmb1kWR4pnjneA&usqp=CAU" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="xenasit" height="30" /></a>
   <a href="https://github.com/LearnProjects89/apartment-app" target="blank">
-      <img align="center" src="https://vectorportal.com/storage/x-object10_2628.jpg" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/apartment-app/blob/main/frontend-apt-app/src/assets/home.png" alt="xenasit" height="30" /></a>
   <a href="https://github.com/LearnProjects89/pig-latin" target="blank">
-      <img align="center" src="https://cdn12.picryl.com/photo/2016/12/31/pig-animal-pork-animals-201aac-1024.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/butcherPig.jpeg" alt="xenasit" height="30" /></a>
   
 </p>
 
