@@ -8,8 +8,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://port-nine-woad.vercel.app/" target="blank">
-    <img align="center" src="https://port-nine-woad.vercel.app/static/media/favicon-removebg1.50263ea4bfc31a6a7514.png" alt="sxena" height="30" width="40" /></a>
+<!--   <a href="https://port-nine-woad.vercel.app/" target="blank">
+    <img align="center" src="https://port-nine-woad.vercel.app/static/media/favicon-removebg1.50263ea4bfc31a6a7514.png" alt="sxena" height="30" width="40" /></a> -->
   <a href="https://linkedin.com/in/sxena" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sxena" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/XeNa888" target="blank">
