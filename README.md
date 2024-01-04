@@ -43,13 +43,13 @@
 <h3 align="center">Check out my TEAM GITHUB projects:</h3>
 
 <p align="center">
-  <a href="https://github.com/LearnProjects89/tic-tac-toe" target="blank">
+<!--   <a href="https://github.com/LearnProjects89/tic-tac-toe" target="blank">
     <img align="center" src="https://github.com/LearnProjects89/tic-tac-toe/blob/main/public/tic-tac-toe.png" alt="sxena" height="30"  /></a>
   <a href="https://github.com/LearnProjects89/jelly-hunt" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/jelly-hunt/blob/main/public/jelly.png" alt="sxena" height="30" /></a>
+    <img align="center" src="https://github.com/LearnProjects89/jelly-hunt/blob/main/public/jelly.png" alt="sxena" height="30" /></a> -->
   
-  <a href="https://github.com/LearnProjects89/color-box" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="xenasit" height="30" /></a>
+  <!-- <a href="https://github.com/LearnProjects89/color-box" target="blank">
+    <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="xenasit" height="30" /></a> -->
   
   <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
     <img align="center" src="https://github.com/LearnProjects89/mix-and-match/blob/main/frontend%20district%2012/src/assets/gitlogo.png" alt="xenasit" height="30"  /></a>
