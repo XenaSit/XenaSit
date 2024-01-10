@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://portfolio2020-five.vercel.app/" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/portfolio2020/blob/main/assets/img/favicon.pngg" alt="sxena" height="30" width="40" /></a>
+    <img align="center" src="https://github.com/LearnProjects89/portfolio2020/blob/main/assets/img/favicon.png" alt="sxena" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/sxena" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sxena" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/XeNa888" target="blank">
