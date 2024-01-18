@@ -18,7 +18,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xenasit" height="30" width="40" /></a>
 <!--   <a href="https://codepen.io/XenaSit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xenasit" height="30" width="40" /></a> -->
-  URL:https://www.codewars.com/users/XeNa888/badges/large
+  <a href="https://www.codewars.com/users/XeNa888/badges/large" target="blank">
+    <img align="center" src="https://www.codewars.com/users/XeNa888/badges/large" alt="xenasit" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Check out my DEPLOYED projects:</h3>
