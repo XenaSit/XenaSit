@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://portfolio2020-five.vercel.app/" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/portfolio2020/blob/main/assets/img/favicon.png" alt="sxena" height="30" width="40" /></a>
+    <img align="center" src="https://github.com/LearnProjects89/portfolio2020/blob/main/assets/img/favicon.png" alt="portfolio" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/sxena" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sxena" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/XeNa888" target="blank">
-    <img align="center" src="https://docs.codewars.com/logo.svg" alt="xenasit" height="30" width="40" /></a>
+    <img align="center" src="https://docs.codewars.com/logo.svg" alt="codeWars" height="30" width="40" /></a>
   <a href="https://dev.to/xenasit" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xenasit" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="30" width="40" /></a>
 <!--   <a href="https://codepen.io/XenaSit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xenasit" height="30" width="40" /></a> -->
 </p>
@@ -27,19 +27,19 @@
 
 <p align="center">
   <a href="https://tic-tac-toe-five-virid.vercel.app/" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/tic-tac-toe/blob/main/public/tic-tac-toe.png" alt="sxena" height="30"  /></a>
+    <img align="center" src="https://github.com/LearnProjects89/tic-tac-toe/blob/main/public/tic-tac-toe.png" alt="TIC-TAC-TOE" height="30"  /></a>
   
   <a href="https://jelly-hunt.vercel.app/" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/jelly-hunt/blob/main/public/jelly.png" alt="sxena" height="30" /></a>
+    <img align="center" src="https://github.com/LearnProjects89/jelly-hunt/blob/main/public/jelly.png" alt="Jelly-Hunt" height="30" /></a>
   
   <a href="https://color-box.vercel.app/" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="xenasit" height="30" /></a>
+    <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="Color-Box" height="30" /></a>
   
   <a href=" https://bookclub-frontend.onrender.com/" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="BookClub" height="30" /></a>
   
   <a href="https://pig-latin-psi.vercel.app/" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/logo.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/logo.png" alt="Pig Latin" height="30" /></a>
  
 </p>
 
@@ -55,13 +55,13 @@
     <img align="center" src="https://github.com/LearnProjects89/color-box/blob/main/src/assets/backgroundImage.png" alt="xenasit" height="30" /></a> -->
   
   <a href="https://github.com/LearnProjects89/mix-and-match" target="blank">
-    <img align="center" src="https://github.com/LearnProjects89/mix-and-match/blob/main/frontend%20district%2012/src/assets/gitlogo.png" alt="xenasit" height="30"  /></a>
+    <img align="center" src="https://github.com/LearnProjects89/mix-and-match/blob/main/frontend%20district%2012/src/assets/gitlogo.png" alt="Tinder" height="30"  /></a>
   <a href="https://github.com/LearnProjects89/Book-Club/tree/main" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/Book-Club/blob/main/bookclub-frontend/src/assets/logo.png" alt="BookClub" height="30" /></a>
   <a href="https://github.com/LearnProjects89/apartment-app" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/apartment-app/blob/main/frontend-apt-app/src/assets/home.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/apartment-app/blob/main/frontend-apt-app/src/assets/home.png" alt="Appartment" height="30" /></a>
   <a href="https://github.com/LearnProjects89/pig-latin" target="blank">
-      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/logo.png" alt="xenasit" height="30" /></a>
+      <img align="center" src="https://github.com/LearnProjects89/pig-latin/blob/main/src/assets/logo.png" alt="Pig Latin" height="30" /></a>
   
 </p>
 
