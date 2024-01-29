@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xena</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<h5 align="center">- 🔭 I’m currently working on **react on Rails App**</h5>
+<h3 align="center">- 🔭 I’m currently working on **react on Rails App**</h3>
 
-<h5 align="center">- 🌱 I’m currently learning ** Ruby**</h5>
+<h3 align="center">- 🌱 I’m currently learning ** Ruby**</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 
 <p align="center">
   <a href="https://portfolio2020-five.vercel.app/" target="blank">
@@ -23,7 +23,7 @@
   <a href="https://www.codewars.com/users/XeNa888/badges/large" target="blank">
   <img align="center" src="https://www.codewars.com/users/XeNa888/badges/large" alt="xenasit"  /></a></p> -->
 
-<h3 align="center">Check out my DEPLOYED projects:</h3>
+<h1 align="center">Check out my DEPLOYED projects:</h1>
 
 <p align="center">
   <a href="https://tic-tac-toe-five-virid.vercel.app/" target="blank">
