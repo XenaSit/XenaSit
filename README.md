@@ -14,6 +14,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/XeNa888" target="blank">
     <img align="center" src="https://docs.codewars.com/logo.svg" alt="codeWars" height="30" width="40" /></a>
+  <a href="https://leetcode.com/XenaSit/" target="blank">
+    <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="codeWars" height="30" width="40" /></a>
   <a href="https://dev.to/xenasit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="30" width="40" /></a>
 <!--   <a href="https://codepen.io/XenaSit" target="blank">
