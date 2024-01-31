@@ -2,11 +2,11 @@
 
 <h3 align="center">- 🔭 I’m currently working on **react on Rails App**</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
+</p>-->
 <h3 align="center">Can Create a FullStack app:</h3>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
