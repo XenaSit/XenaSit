@@ -102,12 +102,12 @@
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit stats" /></p>-->
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xenasit&background=A50A26" alt="GitHub Streak" /></a></p>
 
-<!-- <p align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xenasit&" alt="xenasit stats" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenasit&" alt="Top Languages" /></p>
+<p align="center">
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xenasit&" alt="xenasit stats" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenasit&" alt="Top Languages" /></p>
 <a href="https://app.daily.dev/s_xena">
-    <img src="https://api.daily.dev/devcards/a8edd2293681428c9128ff78d6a3830c.png?r=7bb" width="400" alt="Xena's Dev Card"/></a>
-</p> -->
+    <img src="https://api.daily.dev/devcards/a8edd2293681428c9128ff78d6a3830c.png?r=7bb" width="400" alt="Xena's Dev Card"/></a> -->
+</p>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3>
 
