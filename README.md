@@ -125,7 +125,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenasit&show_icons=true&locale=en" alt="xenasit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit" /></p> 
-do this one
+do this one 08/02/24
 do this two
 do this three
 do this four
@@ -133,5 +133,5 @@ do this five
 do this six
 do ths seven
 do this eight
-do this none (already home)
+do this nine (already home) 08/10/24
 -->
