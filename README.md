@@ -100,31 +100,29 @@
 </p>
 
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit stats" /></p>-->
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=xenasit&background=A50A26" alt="GitHub Streak" /></a></p>
 
-<p align="center">
+<!-- LETTER GRADE FOR THE GITHUB -->
+<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenasit&show_icons=true&locale=en" alt="xenasit" /></p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xenasit&" alt="xenasit stats" /></p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenasit&" alt="Top Languages" /></p>
 <a href="https://app.daily.dev/s_xena">
     <img src="https://api.daily.dev/devcards/a8edd2293681428c9128ff78d6a3830c.png?r=7bb" width="400" alt="Xena's Dev Card"/></a> -->
 </p>
 
-<!-- <h3 align="center">A passionate frontend developer from India</h3>
+
+<!-- <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenasit&label=Profile%20views&color=0e75b6&style=flat" alt="xenasit" /> </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xenasit&show_icons=true&locale=en&layout=compact" alt="xenasit" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xenasit" alt="xenasit" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/xenasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xenasit" height="30" width="40" /></a>
-</p>
+-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xenasit&show_icons=true&locale=en&layout=compact" alt="xenasit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenasit&show_icons=true&locale=en" alt="xenasit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit" /></p> 
+<!-- 
+VACATION #1
 do this one 08/02/24
 do this two
 do this three
@@ -133,5 +131,7 @@ do this five
 do this six
 do ths seven
 do this eight
-do this nine (already home) 08/10/24
+do this nine (already home) 08/10/24 
+
+
 -->
