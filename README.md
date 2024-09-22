@@ -101,7 +101,7 @@
 
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xenasit&" alt="xenasit stats" /></p>-->
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=xenasit&background=A50A26" alt="GitHub Streak" /></a></p>-->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=xenasit&background=A50A26" alt="GitHub Streak" /></a></p>
 
 <!-- LETTER GRADE FOR THE GITHUB -->
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenasit&show_icons=true&locale=en" alt="xenasit" /></p>-->
